@@ -197,6 +197,7 @@ pages:
     - hook_civicrm_tokens: hooks/hook_civicrm_tokens.md
     - hook_civicrm_tokenValues: hooks/hook_civicrm_tokenValues.md
     - hook_civicrm_unhandledException: hooks/hook_civicrm_unhandledException.md
+    - hook_civicrm_relativeToAbsolute: hooks/hook_civicrm_relativeToAbsolute.md
 - Testing:
   - Testing: testing/index.md
   - Continuous Integration: testing/continuous-integration.md

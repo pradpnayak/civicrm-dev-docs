@@ -174,3 +174,4 @@ This is an overview list of all available hooks, listed by category.
 * **[hook_civicrm_tokens](/hooks/hook_civicrm_tokens.md)** - called to allow custom tokens to be defined.
 * **[hook_civicrm_tokenValues](/hooks/hook_civicrm_tokenValues.md)** - called to get all the values for the tokens registered.
 * **[hook_civicrm_unhandledException](/hooks/hook_civicrm_unhandledException.md)** - fires when an unhandled exception (fatal error) occurs.
+* **[hook_civicrm_relativeToAbsolute](/hooks/hook_civicrm_relativeToAbsolute.md)** - called to alter the from and to of relative date.
